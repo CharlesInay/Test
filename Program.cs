@@ -12,6 +12,7 @@ namespace ConsoleApp10
         {
             Console.WriteLine("Welcome 2026!");
             Console.WriteLine("Check if git is working properly!");
+            Console.WriteLine("Check if git is working properly.");
         }
     }
 }
